@@ -1,5 +1,5 @@
 # YuiYes发布页 麻烦给个友链哦~
-# 友链地址  YUIYES https://yl.yuiyes.cc
+# 友链地址  YUIYES https://yuiyes.cc
 
 # 永久海外发布页 https://yuiyes.com
 # 备用域名 https://yuiyes.cc
